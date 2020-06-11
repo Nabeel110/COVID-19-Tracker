@@ -1,8 +1,8 @@
 body {
-    /* background-color: rgb(250, 250, 250); */
-     background-image: url("/covidbg.png");
+    background-color: rgb(250, 250, 250);
+     /* background-image: url("/covidbg.png");
     background-size:cover ;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;  */
     /* background-image: linear-gradient(#FC4D35, #EF3C50, #E1296E); */
 }
 
